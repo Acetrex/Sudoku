@@ -1,8 +1,5 @@
-# File: proj3.py
 # Name: Alex Tran
 # Date: 11/28/18
-# Section: 05
-# e-mail: ptran7@umbc.edu
 # Description:
 #       This program will be programming up a text-based version of the popular Sudoku \
 #       puzzle game. The goal of the game is to place the digits from 1-9 in each cell \
