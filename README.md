@@ -17,7 +17,7 @@ and y-coordinate and the value itself.
 ### Executing program
 
 * In a terminal, traverse to the directory with all the documents using bash commands
-* to run the program, type python3 proj3.py
+* to run the program, type "python3 proj3.py" and enter
 
 
 ## Authors
